@@ -72,3 +72,8 @@ body {
     font-weight: bold;
     color: var(--secundary-color);
 }
+span{
+  font-weight: bold;
+  color: white;
+  background-color: var(--secundary-color)
+}
